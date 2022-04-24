@@ -13,4 +13,3 @@ For this purpose, our model is based upon the performed analysis of the extracte
  - HTML
  - CSS,JS,JQuery
 
-
