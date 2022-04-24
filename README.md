@@ -13,3 +13,10 @@ For this purpose, our model is based upon the performed analysis of the extracte
  - HTML
  - CSS,JS,JQuery
 
+## 📷ScreenShot
+
+- Uploading Audio File
+![main image 10](https://user-images.githubusercontent.com/77083945/164954057-a0105805-1d4f-44f6-adc9-0f087f1b8949.png)
+
+- Final Prediction
+![main image 11](https://user-images.githubusercontent.com/77083945/164954062-2bbe26ca-a085-4cbc-b546-7650b37db24a.png)
